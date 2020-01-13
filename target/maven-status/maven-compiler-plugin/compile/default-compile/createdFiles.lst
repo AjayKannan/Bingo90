@@ -1,0 +1,6 @@
+com\lindar\bean\TicketStrip.class
+com\lindar\util\NumberUtil.class
+com\lindar\bean\Ticket.class
+com\lindar\util\RandomUtil.class
+com\lindar\service\Bingo90.class
+com\lindar\service\TicketGenerator.class
